@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-houm/static/css/main.f0a75c6c.css",
+    "main.js": "/test-houm/static/js/main.f0fcd53a.js",
+    "static/js/787.e0da1fac.chunk.js": "/test-houm/static/js/787.e0da1fac.chunk.js",
+    "index.html": "/test-houm/index.html",
+    "main.f0a75c6c.css.map": "/test-houm/static/css/main.f0a75c6c.css.map",
+    "main.f0fcd53a.js.map": "/test-houm/static/js/main.f0fcd53a.js.map",
+    "787.e0da1fac.chunk.js.map": "/test-houm/static/js/787.e0da1fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a75c6c.css",
+    "static/js/main.f0fcd53a.js"
+  ]
+}
